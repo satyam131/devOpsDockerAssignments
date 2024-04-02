@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.devOpsDocker.devOpsDocker.DevOpsDockerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.067 s -- in com.devOpsDocker.devOpsDocker.DevOpsDockerApplicationTests
